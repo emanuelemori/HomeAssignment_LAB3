@@ -1,0 +1,1 @@
+Questa repository contiene tutti gli home assignment che ho svolto da settembre a dicembre 2023 in preparazione all'esame di Laboratorio III, incentrato su multithreading e modelli architetturali e protocolli di rete.
